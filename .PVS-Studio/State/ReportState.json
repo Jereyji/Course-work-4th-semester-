@@ -1,0 +1,60 @@
+{
+  "json": [
+    {
+      "code": "V730",
+      "message": "It is possible that not all members of a class are initialized inside the constructor. Consider inspecting: x, y.",
+      "falseAlarm": true,
+      "level": 2,
+      "positions": [
+        {
+          "column": 1,
+          "endColumn": 1,
+          "line": 20,
+          "endLine": 20,
+          "file": "C:\\Users\\79996\\OneDrive\\Рабочий стол\\4 семестр\\прога\\KURS II\\KURS II\\Kurs_valut.h",
+          "navigation": {
+            "currentLine": 3283421,
+            "previousLine": 5816,
+            "nextLine": 123,
+            "columns": 0
+          }
+        }
+      ],
+      "cwe": 457,
+      "sastId": "CERT-EXP53-CPP",
+      "projects": [
+        "KURS II"
+      ],
+      "favorite": false,
+      "id": 0
+    },
+    {
+      "code": "V730",
+      "message": "It is possible that not all members of a class are initialized inside the constructor. Consider inspecting: USD, EUR, KZT, UAH, predz.",
+      "falseAlarm": true,
+      "level": 2,
+      "positions": [
+        {
+          "column": 1,
+          "endColumn": 1,
+          "line": 22,
+          "endLine": 22,
+          "file": "C:\\Users\\79996\\OneDrive\\Рабочий стол\\4 семестр\\прога\\KURS II\\KURS II\\Predskazanie.h",
+          "navigation": {
+            "currentLine": 15937949,
+            "previousLine": 5816,
+            "nextLine": 123,
+            "columns": 0
+          }
+        }
+      ],
+      "cwe": 457,
+      "sastId": "CERT-EXP53-CPP",
+      "projects": [
+        "KURS II"
+      ],
+      "favorite": false,
+      "id": 1
+    }
+  ]
+}

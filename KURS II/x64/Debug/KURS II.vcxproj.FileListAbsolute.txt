@@ -1,0 +1,14 @@
+C:\Users\79996\OneDrive\Рабочий стол\прога\KURS II\KURS II\x64\Debug\KURS II.vcxproj.AssemblyReference.cache
+C:\Users\79996\OneDrive\Рабочий стол\прога\KURS II\KURS II\x64\Debug\KURS II.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\79996\OneDrive\Рабочий стол\прога\KURS II\KURS II\x64\Debug\KURSII.MyForm.resources
+C:\Users\79996\OneDrive\Рабочий стол\прога\KURS II\KURS II\x64\Debug\KURS II.vcxproj.GenerateResource.cache
+C:\Users\79996\OneDrive\Рабочий стол\прога\KURS II\KURS II\x64\Debug\KURSII.Predskazanie.resources
+C:\Users\79996\OneDrive\Рабочий стол\прога\KURS II\KURS II\x64\Debug\KURSII.Kurs_valut.resources
+C:\Users\79996\OneDrive\Рабочий стол\прога\KURS II\KURS II\x64\Debug\KURSII.Kurs_Data.resources
+C:\Users\79996\OneDrive\Рабочий стол\4 семестр\прога\KURS II\KURS II\x64\Debug\KURS II.vcxproj.AssemblyReference.cache
+C:\Users\79996\OneDrive\Рабочий стол\4 семестр\прога\KURS II\KURS II\x64\Debug\KURS II.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\79996\OneDrive\Рабочий стол\4 семестр\прога\KURS II\KURS II\x64\Debug\KURSII.Kurs_Data.resources
+C:\Users\79996\OneDrive\Рабочий стол\4 семестр\прога\KURS II\KURS II\x64\Debug\KURSII.Kurs_valut.resources
+C:\Users\79996\OneDrive\Рабочий стол\4 семестр\прога\KURS II\KURS II\x64\Debug\KURSII.MyForm.resources
+C:\Users\79996\OneDrive\Рабочий стол\4 семестр\прога\KURS II\KURS II\x64\Debug\KURSII.Predskazanie.resources
+C:\Users\79996\OneDrive\Рабочий стол\4 семестр\прога\KURS II\KURS II\x64\Debug\KURS II.vcxproj.GenerateResource.cache
